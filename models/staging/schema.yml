@@ -8,3 +8,9 @@ sources:
     tables:
       - name: green_tripdata_paritioned
       - name: yellow_tripdata_paritioned
+
+models:
+  - name: stg_green_tripdata
+    description:
+    columns:
+    
